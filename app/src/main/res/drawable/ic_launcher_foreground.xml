@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Emergency Shield/Pill Badge -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,22 C34,22 26,30 26,50 C26,72 44,84 54,88 C64,84 82,72 82,50 C82,30 74,22 54,22 Z" />
+    <!-- Medical Cross with Glow -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M48,32 H60 V46 H74 V58 H60 V72 H48 V58 H34 V46 H48 Z" />
+    <!-- Pulse Line over Cross -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,52 L44,52 L48,41 L53,63 L58,47 L62,55 L65,52 L76,52" />
+    <!-- AI Sparkle Indicator -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M72,30 L74,35 L79,37 L74,39 L72,44 L70,39 L65,37 L70,35 Z" />
+</vector>
